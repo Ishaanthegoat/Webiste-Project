@@ -1,0 +1,24 @@
+/* Background Picture and Size */
+html {
+  background: url("img/red.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+/* Code for the body of the website */
+body {
+  text-align: center;
+  color: yellow;
+  border: 15px solid rgb(0, 195, 255);
+  width: 700px;
+  margin: auto;
+  padding: 25px 75px;
+  border-radius: 30px;
+}
+/* Size and Font of text */
+h1 {
+  color: rgb(0, 247, 255);
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
+}
+.nav a {
+  margin: 0px 25px;
+}
